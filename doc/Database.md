@@ -13,3 +13,4 @@
 - save intermediate results
     - speed up work when you get errors
     - you can also check where the errors are introduced.
+- store your workflow, so you don't have to be afraid of forgetting it.
